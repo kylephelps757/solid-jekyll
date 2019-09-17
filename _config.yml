@@ -108,7 +108,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "I am a consultant who specializes in mobile application development. I would be glad to help you. Send me an email or call me here: +1 757-572-2668"
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
