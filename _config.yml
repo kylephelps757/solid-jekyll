@@ -64,7 +64,7 @@ members:
     img: team01.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: kyle.phelps757@gmail.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Paul Jameson
@@ -73,7 +73,7 @@ members:
     img: team02.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: kyle.phelps757@gmail.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Laura Sommers
@@ -82,7 +82,7 @@ members:
     img: team03.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: kyle.phelps757@gmail.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Martin Blunt
@@ -91,7 +91,7 @@ members:
     img: team04.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: kyle.phelps757@gmail.com
       - title: twitter
         url: http://twitter.com/handle
 
