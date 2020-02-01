@@ -8,7 +8,7 @@ categories:
 img: portfolio_02.jpg 
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
+- portfolio_02.jpg
 - single02.jpg
 - single03.jpg
 tagged: Flat, UI, Development
