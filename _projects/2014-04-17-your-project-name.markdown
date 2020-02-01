@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Sketch Share"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Kyle Phelps
 categories:
 - project
 <!-- img: portfolio_02.jpg -->
