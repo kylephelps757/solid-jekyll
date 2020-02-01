@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "test"
+title:  "test test"
 date:   2014-04-25 16:54:46
 author: Kyle Phelps
 categories:
