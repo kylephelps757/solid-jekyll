@@ -8,9 +8,9 @@ categories:
 img: portfolio_02.jpg
 thumb: thumb02.jpg
 carousel:
-- Diagram HUD.jpg
-- Birthday HUD.jpg
-- share.jpg
+- House HUD.jpg
+- House Close Up.jpg
+- Share.jpg
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
