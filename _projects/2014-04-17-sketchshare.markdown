@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "test test"
+title:  "Sketch Share"
 date:   2019-12-23
 author: Kyle Phelps
 categories:
