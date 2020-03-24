@@ -15,4 +15,4 @@ tagged: Utility
 website: https://play.google.com/store/apps/details?id=com.curien.curienllc&hl=en_US
 ---
 #### Curien Hub
-Curien Hub is an app to interface with propriatary volt meters through bluetooth. The work I did on this project involved setting up the interface between the bluetooth hardware and the app, rebranding the app, and publishing the app for Android and iOS.
+Curien Hub is an app to interface with proprietary volt meters through bluetooth. The work I did on this project involved setting up the interface between the bluetooth hardware and the app, rebranding the app, and publishing the app for Android and iOS.
