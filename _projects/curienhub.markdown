@@ -8,9 +8,9 @@ categories:
 img: portfolio_02.jpg
 thumb: thumb02.jpg
 carousel:
-- House HUD.jpg
-- House Close Up.jpg
-- Share.jpg
+- homescreen.png
+- meterscreen.png
+- versionscreen.png
 tagged: Utility
 website: https://play.google.com/store/apps/details?id=com.curien.curienllc&hl=en_US
 ---
