@@ -5,7 +5,7 @@ date:   2020-03-23
 author: Curien LLC
 categories:
 - project
-img: portfolio_02.jpg
+img: curienlogo.png
 thumb: thumb02.jpg
 carousel:
 - homescreen.png
